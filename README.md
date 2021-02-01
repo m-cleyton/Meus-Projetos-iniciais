@@ -1,2 +1,2 @@
 # Meus-Projetos-iniciais
-Projetinhos de um quase estagiario :D
+Projetos de um quase estagiário.
